@@ -1,0 +1,47 @@
+{
+  "personal": {
+    "name": "Thales Testes",
+    "email": "thales@testes.com",
+    "phone": "11 99999-1000",
+    "consultancyType": "Individual",
+    "personType": "Pessoa Física",
+    "document": "41100748008",
+    "allChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/docteste.pdf",
+    "description": "Preciso de uma consultoria para melhorar a performance do meu site e aumentar as vendas.",
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Cypress",
+      "Docker"
+    ],
+    "termsAccepted": true
+  },
+  "company": {
+    "name": "Thales Testes",
+    "email": "thales@testes.com",
+    "phone": "11 99999-1000",
+    "consultancyType": "In Company",
+    "personType": "Pessoa Jurídica",
+    "document": "96687513000191",
+    "allChannels": [
+      "Instagram",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/docteste.pdf",
+    "description": "Preciso de uma consultoria para melhorar a performance do meu site e aumentar as vendas.",
+    "technologies": [
+      "JavaScript",
+      "Cypress"
+    ],
+    "termsAccepted": true
+  }
+}
